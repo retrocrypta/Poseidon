@@ -3,6 +3,8 @@
 Git POSEIDON de ManuFerHi: https://github.com/ManuFerHi/Poseidon
 Aquí encontraréis cores para ep4cgx150 y 10LC055/120
 
+Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
+
 ## Listado de core disponibles para Poseidon EP4CGX150
 
 - Amstrad_CPC_poseidon-ep4cgx150 
