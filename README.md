@@ -1,5 +1,7 @@
 # Poseidon
 
+Git de ManuFerHi: https://github.com/ManuFerHi/Poseidon
+
 - Amstrad_CPC_poseidon-ep4cgx150 
 
 - Amstrad_PCW_poseidon-ep4cgx150
