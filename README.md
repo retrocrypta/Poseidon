@@ -14,7 +14,7 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
   
   DeMISTerizado y mejorado por rampa069
 
-  - apple2fpga_poseidon-ep4cgx150.rbf
+- apple2fpga_poseidon-ep4cgx150.rbf
 
   Portado de MiST [gyurco] a Poseidon por ron.
 
