@@ -13,6 +13,10 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
 - Amstrad_PCW_poseidon-ep4cgx150
   
   DeMISTerizado y mejorado por rampa069
+  
+  - apple2fpga
+
+  Portado de MiST [gyurco] a Poseidon por ron.
 
 - BBC_poseidon-ep4cgx150
   
@@ -94,3 +98,5 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
 - zx-kyp_poseidon_ep4cgx150
   
   Kyp069
+
+    
