@@ -8,55 +8,61 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
 
 ## Listado de core disponibles para Poseidon EP4CGX150
 
-- Amstrad_CPC_poseidon-ep4cgx150 
-
-- Amstrad_PCW_poseidon-ep4cgx150
-  
-  DeMISTerizado y mejorado por rampa069
-
-- apple2fpga_poseidon-ep4cgx150.rbf
-
-  Portado de MiST [gyurco] a Poseidon por ron.
-
-- BBC_poseidon-ep4cgx150
-  
-  Portado de MiST [gyurco] a Poseidon por ron.
-
-- C64_poseidon-ep4cgx150
-  
-  Portado de MiST [gyurco] a Poseidon por ron y yo_me.
-  
-- Enteprise-poseidon-ep4cgx150
+# ace-kyp_poseidon-ep4cgx150
   
   Kyp069
 
-- Jupiter_ACE_poseidon-ep4cgx150
+# Amstrad_CPC_poseidon-ep4cgx150 
+
+ Gyurco
+
+# Amstrad_PCW_poseidon-ep4cgx150
   
   DeMISTerizado y mejorado por rampa069
 
-- Laser500_poseidon-ep4cgx150
+# apple2fpga_poseidon-ep4cgx150.rbf
+
+  Portado de MiST [gyurco] a Poseidon por ron.
+
+# BBC_poseidon-ep4cgx150
+  
+  Portado de MiST [gyurco] a Poseidon por ron.
+
+# C64_poseidon-ep4cgx150
   
   Portado de MiST [gyurco] a Poseidon por ron y yo_me.
   
-- MSX_poseidon-ep4cgx150
+# Enteprise-poseidon-ep4cgx150
+  
+  Kyp069
+
+# Jupiter_ACE_poseidon-ep4cgx150
+  
+  DeMISTerizado y mejorado por rampa069
+
+# Laser500_poseidon-ep4cgx150
+  
+  Portado de MiST [gyurco] a Poseidon por ron y yo_me.
+  
+# MSX_poseidon-ep4cgx150
   
   Portado de MiST [gyurco] a Poseidon por ron.
   
-- MiSTery__poseidon_ep4cgx150
+# MiSTery__poseidon_ep4cgx150
   
   [gyurco]
   
-- Minimig_poseidon-ep4cgx150
+# Minimig_poseidon-ep4cgx150
   
   [Gyurco, Robinsonb5 & rampa069]
 
-- NeoGeo_Poseidon_GX150
+# NeoGeo_Poseidon_GX150
 
-- Next186_Poseidon_ep4cGX150
+# Next186_Poseidon_ep4cGX150
 
   por Somhic
 
-- Oric_poseidon-ep4cgx150
+# Oric_poseidon-ep4cgx150
   
   Por rampa069
 
@@ -64,19 +70,19 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
   
   DeMISTerizado y mejorado por rampa069
   
-- SVI328_poseidon-ep4cgx150
+# SVI328_poseidon-ep4cgx150
   
   Por yo_me
   
-- SamCoupe_poseidon-ep4cgx150
+# SamCoupe_poseidon-ep4cgx150
   
   Portado de MiST [gyurco] a Poseidon por ron
   
-- TVC_poseidon-ep4cgx150
+# TVC_poseidon-ep4cgx150
   
   Portado de MiST [gyurco] a Poseidon por ron
   
-- Telestrat_poseidon-ep4cgx150
+# Telestrat_poseidon-ep4cgx150
   
   Por rampa069
   
@@ -84,18 +90,15 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
   
   Por rampa069
   
-- Videopac_poseidon-ep4cgx150
+# Videopac_poseidon-ep4cgx150
   
   Por rampa069
   
-- ZXSpectrum__poseidon_ep4cgx150
-  
+# ZXSpectrum__poseidon_ep4cgx150
 
-- ace-kyp_poseidon-ep4cgx150
-  
-  Kyp069
-  
-- zx-kyp_poseidon_ep4cgx150
+  Sorgelig / Gyurco
+ 
+# zx-kyp_poseidon_ep4cgx150
   
   Kyp069
 
