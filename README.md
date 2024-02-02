@@ -86,7 +86,7 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
   
   Por rampa069
   
-- Vic20_poseidon-ep4cgx150
+# Vic20_poseidon-ep4cgx150
   
   Por rampa069
   
