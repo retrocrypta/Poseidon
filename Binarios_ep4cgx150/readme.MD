@@ -24,6 +24,10 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
 
   Portado de MiST [gyurco] a Poseidon por ron.
 
+# Atari8000XL_poseidon-ep4cgx150.rbf
+
+  Portado de MiST [gyurco] a Poseidon por Somhic.
+
 # BBC_poseidon-ep4cgx150
   
   Portado de MiST [gyurco] a Poseidon por ron.
