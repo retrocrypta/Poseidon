@@ -36,6 +36,10 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
 # C64_poseidon-ep4cgx150
   
   Portado de MiST [gyurco] a Poseidon por ron y yo_me.
+
+# C16_poseidon-ep4cgx150
+  
+  Portado de MiST [gyurco] a Poseidon por rampa. Ted de rampa.
   
 # Enteprise-poseidon-ep4cgx150
   
