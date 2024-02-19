@@ -97,7 +97,11 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
 # Videopac_poseidon-ep4cgx150
   
   Por rampa069
+
+# zemmix_neo_poseidon-ep4cgx150
   
+  Por rampa069
+
 # ZXSpectrum__poseidon_ep4cgx150
 
   Sorgelig / Gyurco
