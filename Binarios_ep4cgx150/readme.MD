@@ -70,7 +70,7 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
   
   Por rampa069
 
-- QL_poseidon-ep4cgx150
+# QL_poseidon-ep4cgx150
   
   DeMISTerizado y mejorado por rampa069
   
