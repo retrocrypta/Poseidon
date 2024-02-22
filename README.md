@@ -67,6 +67,8 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
 
 # NeoGeo_Poseidon_GX150
 
+  por Somhic
+
 # Next186_Poseidon_ep4cGX150
 
   por Somhic
@@ -75,7 +77,7 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
   
   Por rampa069
 
-- QL_poseidon-ep4cgx150
+# QL_poseidon-ep4cgx150
   
   DeMISTerizado y mejorado por rampa069
   
