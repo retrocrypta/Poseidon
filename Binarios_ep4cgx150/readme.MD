@@ -32,6 +32,10 @@ Foros en RetroWiki & Cacharreo: http://www.retrowiki.es/viewforum.php?f=120
   
   Portado de MiST [gyurco] a Poseidon por ron.
 
+# Camputers Lynx
+  
+ Versión original de Kyp069, 48K, 96K y Scorpio
+
 # C64_poseidon-ep4cgx150
   
   Portado de MiST [gyurco] a Poseidon por ron y yo_me.
