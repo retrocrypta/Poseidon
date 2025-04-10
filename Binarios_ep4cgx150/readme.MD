@@ -2,9 +2,13 @@
 Estos son los repositorios principales:
 
 BigMiST repo: https://github.com/orgs/BigMist/repositories
+
 Turri repo : https://github.com/turri21?tab=repositories
+
 Maverick-Shark : https://github.com/Maverick-Shark
+
 RW-FPGA-devel-Team : https://github.com/orgs/RW-FPGA-devel-Team/repositories
+
 DeMiSTified : https://github.com/orgs/DeMistified/repositories
 
 Git POSEIDON de ManuFerHi: https://github.com/ManuFerHi/Poseidon
