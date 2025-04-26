@@ -30,7 +30,7 @@ Lamento informar que **ningún core FPGA que incorpore propiedad intelectual (IP
 
 ## ATENCIÓN! El Gran Bulo en MiST, MiSTer y derivadas
 
-¡Vaya, vaya, vaya! Y aquí viene la parte divertida : **prácticamente todos los núcleos para MiST, MiSTer y derivados que se etiquetan alegremente como "GPL3" violan flagrantemente esta licencia** 😅
+¡Vaya, vaya, vaya! Y aquí viene la parte divertida : **prácticamente todos los core para MiST, MiSTer y derivados que se etiquetan alegremente como "GPL3" violan flagrantemente esta licencia** 😅
 
 Sí, has leído bien. Por mucho que sus autores insistan con gran convicción y coloquen con orgullo el sello "GPL3" en sus repositorios, cometen lo que podríamos llamar educadamente un... "error conceptual masivo".
 
