@@ -63,7 +63,7 @@ Las licencias de propiedad intelectual de Altera/Intel y Xilinx/AMD restringen a
 
 Para proyectos que incorporen propiedad intelectual de Altera/Intel o Xilinx/AMD, considera:
 
-- Licencias más permisivas como MIT, BSD o Apache 2.0
+- Licencias más permisivas como LGPL. MIT, BSD o Apache 2.0
 - Licencia dual con excepciones específicas para propiedad intelectual de FPGA
 - Licencias específicas de hardware como Solderpad o CERN OHL
 
